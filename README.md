@@ -1,3 +1,2 @@
-# Projet d'exercice - Version Main
-Version initiale du projet
+# Projet d'exercice - Version Main et Test
 
