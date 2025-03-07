@@ -1,0 +1,2 @@
+Contenu du fichier feature-b
+modification de feature-b
