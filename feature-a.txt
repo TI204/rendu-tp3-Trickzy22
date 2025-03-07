@@ -1,1 +1,2 @@
 Contenu du fichier feature-a
+Deuxième modification de feature-a
